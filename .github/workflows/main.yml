@@ -11,7 +11,6 @@ jobs:
         env:
           PAGES_BRANCH: main
           BUILD_DIR: docs
-          OUT_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
           # BUILD_ONLY: true
   build_and_deploy:
@@ -25,6 +24,5 @@ jobs:
         env:
           PAGES_BRANCH: main
           BUILD_DIR: docs
-          OUT_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: erg-lang/erg-lang.github.io
