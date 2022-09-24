@@ -1,0 +1,72 @@
+{% extends "juice/templates/index.html" %}
+{% block head %}
+<!-- Juice references /normalize.css, which doesn't work, so we reference ./normalics.css here -->
+<link rel="stylesheet" type="text/css" href="/style.css" />
+<link rel="stylesheet" type="text/css" href="/juice-modified.css" />
+<link rel="shortcut icon" type="image/x-icon" href="/logo.svg" />
+{% endblock head %}
+{% block hero %}
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<section class="text-center">
+    <h1 class="heading-text" style="font-size: 50px">
+        Erg Programming Language
+    </h1>
+    <h3 class="title-text">
+        A generic statically typed language that can deeply improve the Python ecosystem.
+    </h3>
+    <div>
+        <a class="github-button" href="https://github.com/erg-lang/erg" data-size="large" data-show-count="true"
+            aria-label="Star erg-lang/erg on GitHub">Star</a>
+        <a class="github-button" href="https://github.com/sponsors/erg-lang" data-size="large" data-icon="octicon-heart"
+            aria-label="Sponsor @erg-lang on GitHub">Sponsor</a>
+    </div>
+</section>
+<img class="hero-image" style="width: 50%" src="{{ get_url(path='code.png') }}">
+
+<div class="explore-more text" onclick="document.getElementById('features').scrollIntoView({behavior: 'smooth'})">
+    Explore More ⇩
+</div>
+<style>
+    .hero section {
+        padding: 0 5rem;
+    }
+
+    @media screen and (max-width: 768px) {
+        .hero section {
+            padding: 0 2rem;
+        }
+
+        .hero-image {
+            display: none
+        }
+    }
+</style>
+{% endblock hero %}
+
+{% block toc %}
+{% if section.toc %}
+{% set toc = section.toc %}
+{% elif page.toc %}
+{% set toc = page.toc %}
+{% endif %}
+{% if toc %}
+<div class="toc">
+    <div class="toc-sticky">
+        {% for h in toc %}
+        <div class="toc-item">
+            <a class="subtext" href="{{h.permalink | safe}}">{{ h.title }}</a>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endif %}
+{% endblock toc %}
+{% block footer %}
+<footer>
+    <small class="subtext">
+        <em>
+            Erg Contributors © 2022
+        </em>
+    </small>
+</footer>
+{% endblock footer %}

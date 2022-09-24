@@ -1,2 +1,3 @@
 # erg-lang.org
-The Erg programming language website
+
+Use [Zola](https://www.getzola.org/) and [Juice](https://github.com/huhu/juice) theme.

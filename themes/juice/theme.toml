@@ -1,0 +1,11 @@
+name = "juice"
+description = "An intuitive, elegant, and lightweight Zola theme for product sites."
+license = "MIT"
+homepage = "https://github.com/huhu/juice"
+demo = "https://juice.huhu.io"
+
+[extra]
+
+[author]
+name = "Huhu teams"
+homepage = "https://huhu.io"
