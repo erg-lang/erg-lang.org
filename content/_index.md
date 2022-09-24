@@ -32,14 +32,14 @@ title = "Erg Programming Language"
 
 By Cargo (Rust package manager):
 
-```console
+```sh
 cargo install erg
 ```
 
 By Source (Need to install the Rust toolchain):
 
-```console
-git clone https://github.com/erg-lang/erg
+```sh
+git clone https://github.com/erg-lang/erg.git
 cd erg
 cargo build --release
 ```
