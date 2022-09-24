@@ -22,7 +22,7 @@ jobs:
       - name: 'build and deploy'
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
-          PAGES_BRANCH: master
+          PAGES_BRANCH: main
           BUILD_DIR: .
           TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: erg-lang/erg-lang.github.io
