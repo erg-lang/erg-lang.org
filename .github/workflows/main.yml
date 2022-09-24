@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: 'checkout'
         uses: actions/checkout@v3.0.0
-      - name: 'build'
+      - name: 'Build'
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
           PAGES_BRANCH: main
@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: 'checkout'
         uses: actions/checkout@v3.0.0
-      - name: 'build and deploy'
+      - name: 'Build and deploy'
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
           PAGES_BRANCH: main
