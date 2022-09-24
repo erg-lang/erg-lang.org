@@ -54,9 +54,3 @@ __Flags:__
    - `--features traditional_chinese`
  - Debugging mode (for contributors)
    - `--features debug`
-
-# Community
-
-## [Discord](https://discord.gg/zfAAUbgGr4)
-
-## [Github Discussions](https://github.com/erg-lang/erg/discussions)
