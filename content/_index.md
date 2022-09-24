@@ -10,7 +10,7 @@ title = "Erg Programming Language"
 
 - __Readability__
 
-  Erg defines a rich set of methods and functions by default. This increases code readability.
+  Erg defines a rich set of methods and functions by default. This reflects the readability of Erg code.
 
 - __Programmer Friendly__
 
