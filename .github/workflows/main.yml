@@ -10,7 +10,7 @@ jobs:
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
           PAGES_BRANCH: main
-          BUILD_DIR: .
+          BUILD_DIR: docs
           OUT_DIR: docs
           TOKEN: ${{ secrets.TOKEN }}
           # BUILD_ONLY: true
@@ -24,7 +24,7 @@ jobs:
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
           PAGES_BRANCH: main
-          BUILD_DIR: .
+          BUILD_DIR: docs
           OUT_DIR: docs
           TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: erg-lang/erg-lang.github.io
