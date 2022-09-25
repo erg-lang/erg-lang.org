@@ -30,7 +30,7 @@ title = "Erg Programming Language"
 
 # Installation
 
-[Download Binary](/download)
+[Download Zip](/download)
 
 By Cargo (Rust package manager):
 
