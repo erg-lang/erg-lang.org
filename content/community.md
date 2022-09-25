@@ -3,7 +3,7 @@ title = "Community"
 description = "Community"
 weight = 4
 +++
-# Official 
+# Official
 
 ## [Discord](https://discord.gg/zfAAUbgGr4)
 

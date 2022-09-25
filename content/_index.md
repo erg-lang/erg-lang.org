@@ -25,10 +25,12 @@ title = "Erg Programming Language"
 
 - __Multiple Backends__
   - CPython
-  - __WIP__ Dyne (Python compatible bytecode interpreter)
-  - __WIP__ Gal (LLVM backend)
+  - __WIP__ Dyne (Python compatible bytecode interpreter, optimized to Erg's specifications, static types and the ownership system etc.)
+  - __WIP__ Gal (LLVM backend, also optimized to Erg's specifications)
 
 # Installation
+
+[Download Binary](/download)
 
 By Cargo (Rust package manager):
 
