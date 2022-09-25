@@ -26,7 +26,7 @@ title = "Erg Programming Language"
 - __Multiple Backends__
   - CPython
   - __WIP__ Dyne (Python compatible bytecode interpreter, optimized to Erg's specifications, static types and the ownership system etc.)
-  - __WIP__ Gal (LLVM backend, also optimized to Erg's specifications)
+  - __WIP__ Gal (LLVM backend, also optimized to Erg's specifications same as Dyne)
 
 # Installation
 
