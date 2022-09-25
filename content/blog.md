@@ -1,5 +1,5 @@
 +++
 title = "Blog"
 description = "Blog"
-weight = 2
+weight = 4
 +++
