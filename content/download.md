@@ -1,7 +1,7 @@
 +++
 title = "Download"
 description = "Download"
-weight = 2
+weight = 3
 +++
 
 # Download Binary
