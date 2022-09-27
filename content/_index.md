@@ -1,5 +1,6 @@
 +++
 title = "Erg Programming Language"
+sort_by = "weight"
 +++
 
 # Features
@@ -10,8 +11,7 @@ title = "Erg Programming Language"
 
 - __Readability__
 
-  Erg defines a rich set of methods and functions by default. This reflects the readability of Erg code.
-
+  In addition to the readability of the syntax itself, Erg defines a rich set of methods and functions by default to improve code readability
 - __Programmer Friendly__
 
   Erg is committed to providing error messages that are easy to read. Erg also provide multilingual support for error messages.
@@ -30,7 +30,7 @@ title = "Erg Programming Language"
 
 # Installation
 
-[Download Zip](/download)
+[Download Zip](/more/download)
 
 By Cargo (Rust package manager):
 
