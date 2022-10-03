@@ -31,7 +31,7 @@ sort_by = "weight"
 
 # Installation
 
-[Download](/more/download)
+[Download](/download)
 
 By Cargo (Rust package manager):
 
