@@ -4,6 +4,8 @@ description = "Download"
 weight = 3
 +++
 
+See the content about Erg installation [here](https://erg-lang.org/#installation)
+
 # Download Binary
 
 ## 0.5.6
