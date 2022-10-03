@@ -12,11 +12,11 @@ sort_by = "weight"
 - __Readability__
 
   In addition to the readability of the syntax itself, Erg defines a rich set of methods and functions by default to improve code readability.
-  
+
 - __Programmer Friendly__
 
   Erg is committed to providing error messages that are easy to read. Erg also provide multilingual support for error messages, etc.
-  
+
 - __Multi Paradigm__
   - Functional & Object-Oriented
 
@@ -31,7 +31,7 @@ sort_by = "weight"
 
 # Installation
 
-[Download Zip](/more/download)
+[Download](/more/download)
 
 By Cargo (Rust package manager):
 
