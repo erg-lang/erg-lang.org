@@ -51,11 +51,10 @@ And Erg supports building with [Nix](https://github.com/erg-lang/erg#building-by
 
 __Flags:__
 
- - You can change the language in which error messages are displayed.
-   - For example: `--features japanese`. Supported languages:
-     - `japanese`
-     - `simplified_chinese`
-     - `traditional_chinese`
+ - You can change the language of the error message by using  `--features {language}`
+   - `japanese`
+   - `simplified_chinese`
+   - `traditional_chinese`
  - Debugging mode (for contributors)
    - `--features debug`
  - See [here](https://github.com/erg-lang/erg/blob/main/.cargo/config.toml) for more flags and abbreviations.

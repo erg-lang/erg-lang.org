@@ -1,7 +1,7 @@
 +++
 title = "Community"
 description = "Community"
-weight = 4
+weight = 3
 +++
 # Official
 
