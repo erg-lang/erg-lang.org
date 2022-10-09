@@ -1,8 +1,9 @@
 +++
-title = "Community"
-description = "Community"
-weight = 3
+title = "Social"
+description = "Social"
+weight = 2
 +++
+
 # Official
 
 ## [Discord](https://discord.gg/zfAAUbgGr4)

@@ -52,9 +52,12 @@ And Erg supports building with [Nix](https://github.com/erg-lang/erg#building-by
 __Flags:__
 
  - You can change the language of the error message by using  `--features {language}`
-   - `japanese`
-   - `simplified_chinese`
-   - `traditional_chinese`
+```sh 
+--features japanese
+--features simplified_chinese
+--features traditional_chinese
+```
+
  - Debugging mode (for contributors)
    - `--features debug`
  - See [here](https://github.com/erg-lang/erg/blob/main/.cargo/config.toml) for more flags and abbreviations.

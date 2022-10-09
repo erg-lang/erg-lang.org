@@ -1,7 +1,7 @@
 +++
 title = "Download"
 description = "Download"
-weight = 2
+weight = 3
 +++
 
 See the content about Erg installation [here](https://erg-lang.org/#installation)
