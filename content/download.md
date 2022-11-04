@@ -86,6 +86,10 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 
 # Download Source
 
+## 0.5.11
+
+[Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.5.11.zip)
+
 ## 0.5.10
 
 [Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.5.10.zip)
