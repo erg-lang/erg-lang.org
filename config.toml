@@ -26,7 +26,7 @@ juice_logo_name = ""
 juice_logo_path = "logo.svg"
 juice_extra_menu = [
     { title = "Github", link = "https://github.com/erg-lang"},
-    { title = "Playground", link = "https://erg-lang.org/erg-playground" }
+    { title = "Playground", link = "https://erg-lang.org/web-ide" }
 ]
 
 repository_url = "https://github.com/erg-lang/erg-lang.org"
