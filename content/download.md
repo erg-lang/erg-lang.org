@@ -8,6 +8,36 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 
 # Download Binary
 
+## 0.6.0
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.0/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.0/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.0/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.0/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.5.13
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.13/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.13/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.13/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.5.13/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.5.12
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.12/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.12/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.12/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.5.12/erg-aarch64-apple-darwin.tar.gz)
+
 ## 0.5.11
 
 [Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.5.11/erg-x86_64-pc-windows-msvc.zip)
@@ -85,6 +115,18 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 [MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.5.6/erg-aarch64-apple-darwin.tar.gz)
 
 # Download Source
+
+## 0.6.0
+
+[Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.0.zip)
+
+## 0.5.13
+
+[Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.5.13.zip)
+
+## 0.5.12
+
+[Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.5.12.zip)
 
 ## 0.5.11
 
