@@ -126,6 +126,10 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 
 # Download Source
 
+## 0.6.1
+
+[Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.1.zip)
+
 ## 0.6.0
 
 [Source](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.0.zip)
