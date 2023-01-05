@@ -49,7 +49,9 @@ cargo build --release
 
 And Erg supports building with [Nix](https://github.com/erg-lang/erg#building-by-nix).
 
-__Flags:__
+## Flags
+
+By enabling the `--features` flag, you can customize the installation and build.
 
  - You can change the language of the error message by using  `--features {language}`
 ```sh 
@@ -57,7 +59,8 @@ __Flags:__
 --features simplified_chinese
 --features traditional_chinese
 ```
-
+ - Install and build ELS (Erg Language Server)
+   - `--features els`
  - Debugging mode (for contributors)
    - `--features debug`
  - See [here](https://github.com/erg-lang/erg/blob/main/.cargo/config.toml) for more flags and abbreviations.
