@@ -139,6 +139,7 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 ## 0.6.2
 
 [Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.2.zip)
+
 [Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.2.tar.gz)
 
 ## 0.6.1
