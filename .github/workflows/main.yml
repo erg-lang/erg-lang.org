@@ -26,3 +26,7 @@ jobs:
           # BUILD_DIR: docs
           TOKEN: ${{ secrets.TOKEN }}
           REPOSITORY: erg-lang/erg-lang.github.io
+      - name: Set ownership
+        run: |
+          # this is to fix GIT not liking owner of the checkout dir
+          chown -R $(id -u):$(id -g) $PWD
