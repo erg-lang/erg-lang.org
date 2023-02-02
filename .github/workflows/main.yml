@@ -19,8 +19,6 @@ jobs:
     steps:
       - name: 'checkout'
         uses: actions/checkout@v3.0.0
-      - name: 'git config --global --add safe.directory /github/workspace'
-        run: git config --global --add safe.directory /github/workspace
       - name: 'Build and deploy'
         uses: shalzz/zola-deploy-action@v0.16.1
         env:
