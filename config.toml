@@ -5,6 +5,7 @@ title = "Erg Programming Language"
 
 description = "Erg Programming Language"
 
+build_search_index = false
 compile_sass = true
 generate_feed = true
 
