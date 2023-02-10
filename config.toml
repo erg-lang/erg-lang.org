@@ -5,11 +5,9 @@ title = "Erg Programming Language"
 
 description = "Erg Programming Language"
 
-# Whether to automatically compile all Sass files in the sass directory
-compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
+compile_sass = true
+generate_feed = true
 
 theme = "juice"
 
@@ -17,7 +15,7 @@ theme = "juice"
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-highlight_theme = "OneHalfLight"
+highlight_theme = "OneHalfDark"
 
 [extra]
 # Put all your custom variables here
@@ -25,8 +23,7 @@ highlight_theme = "OneHalfLight"
 juice_logo_name = ""
 juice_logo_path = "logo.svg"
 juice_extra_menu = [
-    { title = "Github", link = "https://github.com/erg-lang"},
-    { title = "Playground", link = "https://erg-lang.org/web-ide" }
+    { title = "Github", link = "https://github.com/erg-lang"}
 ]
 
 repository_url = "https://github.com/erg-lang/erg-lang.org"

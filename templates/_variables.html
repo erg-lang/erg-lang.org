@@ -1,16 +1,25 @@
 <style>
     :root {
-        --front-color: #007d9c7e;
-        /* Primary theme color */
-        --primary-color: #00a597;
-        /* Primary theme text color */
-        --primary-text-color: #0000009c;
-        /* Primary theme link color */
-        --primary-link-color: #14b4a6;
-        /* Secondary color: the background body color */
-        --secondary-color: #8cb5b9a8;
-        --secondary-text-color: #000000;
-        /* Highlight text color of table of content */
-        --toc-highlight-text-color: #00cab9;
+        --primary-color: #2594a2c4;
+        --primary-text-color: #000000c0;
+        --primary-text-color-over: #000000bc;
+        --primary-link-color: #dda013;
+        --secondary-color: #ffe8b967;
+        --secondary-text-color: #303030;
+        --shadow-color: #ddd;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --primary-color: #1a646e;
+            --primary-text-color: #d7d7d7;
+            --primary-text-color-over: #ababab4e;
+            --primary-link-color: #376a9acf;
+            --secondary-color: #282828e0;
+            --secondary-text-color: #f2f2f2;
+            --toc-highlight-text-color: #f2f2f2;
+            --toc-background-color: #3a3a3a;
+            --shadow-color: #202020;
+        }
     }
 </style>
