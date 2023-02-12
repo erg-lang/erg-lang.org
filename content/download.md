@@ -8,6 +8,16 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 
 # Download Binary
 
+## 0.6.4
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.4/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.4/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.4/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.4/erg-aarch64-apple-darwin.tar.gz)
+
 ## 0.6.3
 
 [Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.3/erg-x86_64-pc-windows-msvc.zip)
@@ -145,6 +155,12 @@ See the content about Erg installation [here](https://erg-lang.org/#installation
 [MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.5.6/erg-aarch64-apple-darwin.tar.gz)
 
 # Download Source
+
+## 0.6.4
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.4.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.4.tar.gz)
 
 ## 0.6.3
 
