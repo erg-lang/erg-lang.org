@@ -1,10 +1,50 @@
 +++
-title = "Download"
-description = "Download"
-weight = 3
+title = "Install"
+description = "Install"
+weight = 2
 +++
 
-See the content about Erg installation [here](https://erg-lang.org/#installation)
+# Way to install
+
+By [Ergup](https://github.com/mtshiba/ergup)
+
+By Cargo (Rust package manager):
+
+```sh
+cargo install erg
+```
+
+By Source (Need to install the Rust toolchain):
+
+```sh
+git clone https://github.com/erg-lang/erg.git
+cd erg
+cargo build --release
+```
+
+And Erg supports building with [Nix](https://github.com/erg-lang/erg#building-by-nix).
+
+# Flags
+
+By enabling the `--features` flag, you can customize the installation and build.
+
+ - You can change the language of the error message by using  `--features {language}`
+```sh 
+--features japanese
+--features simplified_chinese
+--features traditional_chinese
+```
+ - Install and build ELS (Erg Language Server)
+    - `--features els`
+ -  Debugging mode (for contributors)
+    -  `--features debug`
+ -  Rich REPL experience (cursor movement, pasting, history, etc.)
+    - `--features full-repl`
+ - Makes the display look better
+    - `--features unicode` and `--features pretty`
+ - Enable all features (exclude features for developers)
+    - `--features full`
+ - See [here](https://github.com/erg-lang/erg/blob/main/doc/EN/dev_guide/build_features.md) for more flags.
 
 # Download Binary
 
