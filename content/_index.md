@@ -5,26 +5,34 @@ sort_by = "weight"
 
 # Features
 
-- __Robustness__
+## __Robustness__
 
-  Erg has a strong type system. For example, it has dependent types and refinement types. These types strongly encode pre-conditions, invariant conditions, etc. into the code.
+  Erg has a strong type system and comfortable compiler support. For example, it has dependent types and refinement types. These types strongly encode pre-conditions, invariant conditions, etc. into the code.
 
-- __Readability__
+## __Simplicity & Consistency__
+
+  Erg consists of a very simple and consistent syntax, which can significantly reduce the amount of code compared to other languages. However, its functionality is not inferior to them.
+  Since the type inference system is powerful, you can code like a dynamically typed language.
+
+## __Readability__
 
   In addition to the readability of the syntax itself, Erg defines a rich set of methods and functions by default to improve code readability.
 
-- __Programmer Friendly__
+## __Multi Paradigm__
+  Functional & Object-Oriented
 
-  Erg is committed to providing error messages that are easy to read. Erg also provide multilingual support for error messages, etc.
+## __Maintainability__
+  Erg requires some kinds of markers to be placed on code that causes side effects or changes internal state, which can localize the complexity of code. This will greatly improve the maintainability of your code.
 
-- __Multi Paradigm__
-  - Functional & Object-Oriented
+## __Programmer Friendly__
 
-- __Incrementally improve your Python codebase__
+  Erg is committed to providing error messages that are easy to read and various development tools. Erg also provide multilingual support for error messages, etc.
 
-  Erg code can be compiled into Python bytecode. This means you have zero-cost access to your Python assets with Erg. It is also easy to type and call Python APIs, like TypeScript.
+## __Interoperability with Python__
 
-- __Multiple Backends__
+  Erg code can be compiled into Python bytecode. This means you have zero-cost access to your Python assets with Erg.
+
+## __Multiple Backends__
   - CPython
   - __WIP__ Dyne (Python compatible bytecode interpreter, optimized to Erg's specifications, static types and the ownership system etc.)
-  - __WIP__ LLVM (The compiler is called Gal, also optimized to Erg's specifications same as Dyne)
+  - __WIP__ LLVM (The compiler is called Gal, also optimized to Erg's specifications)
