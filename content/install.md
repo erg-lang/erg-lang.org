@@ -4,7 +4,7 @@ description = "Install"
 weight = 2
 +++
 
-# Way to install
+# How to install
 
 By [Ergup](https://github.com/mtshiba/ergup)
 
@@ -46,7 +46,47 @@ By enabling the `--features` flag, you can customize the installation and build.
     - `--features full`
  - See [here](https://github.com/erg-lang/erg/blob/main/doc/EN/dev_guide/build_features.md) for more flags.
 
-# Download Binary
+# Download Binaries
+
+## 0.6.8
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.8/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.8/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.8/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.8/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.6.7
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.7/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.7/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.7/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.7/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.6.6
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.6/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.6/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.6/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.6/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.6.5
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.5/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.5/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.5/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.5/erg-aarch64-apple-darwin.tar.gz)
 
 ## 0.6.4
 
@@ -196,6 +236,30 @@ By enabling the `--features` flag, you can customize the installation and build.
 
 # Download Source
 
+## 0.6.8
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.8.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.8.tar.gz)
+
+## 0.6.7
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.7.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.7.tar.gz)
+
+## 0.6.6
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.6.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.6.tar.gz)
+
+## 0.6.5
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.5.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.5.tar.gz)
+
 ## 0.6.4
 
 [Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.4.zip)
@@ -207,7 +271,6 @@ By enabling the `--features` flag, you can customize the installation and build.
 [Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.3.zip)
 
 [Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.3.tar.gz)
-
 
 ## 0.6.2
 
