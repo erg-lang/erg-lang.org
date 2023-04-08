@@ -9,12 +9,15 @@
 
 <nav>
     {% for page in section.pages %}
+    {% set exclude_menu = config.extra.juice_exclude_menu | default(value=[]) %}
+    {% if exclude_menu is not containing(page.title) %}
     <a class="nav-item subtitle-text" href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    {% endif %}
     {% endfor %}
     {% if config.extra.juice_extra_menu %}
-    {% for menu in config.extra.juice_extra_menu %}
-    <a class="nav-item subtitle-text" href="{{ menu.link | safe }}">{{ menu.title }}</a>
-    {% endfor %}
+        {% for menu in config.extra.juice_extra_menu %}
+        <a class="nav-item subtitle-text" href="{{ menu.link | safe }}">{{ menu.title }}</a>
+        {% endfor %}
     {% endif %}
 </nav>
 {% endmacro render_header %}
