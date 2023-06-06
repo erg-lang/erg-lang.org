@@ -34,5 +34,5 @@ sort_by = "weight"
 
 ## __Multiple Backends__
   - CPython
+  - __WIP__ Rust (The compiler is called Gal, also optimized to Erg's specifications)
   - __WIP__ Dyne (Python compatible bytecode interpreter, optimized to Erg's specifications, static types and the ownership system etc.)
-  - __WIP__ LLVM (The compiler is called Gal, also optimized to Erg's specifications)
