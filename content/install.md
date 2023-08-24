@@ -48,6 +48,34 @@ By enabling the `--features` flag, you can customize the installation and build.
 
 # Download Binaries
 
+## 0.6.19
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[Linux (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-aarch64-unknown-linux-gnu.tar.gz)
+
+[Linux (armv7)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-armv7-unknown-linux-gnueabihf.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.19/erg-aarch64-apple-darwin.tar.gz)
+
+## 0.6.18
+
+[Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-x86_64-pc-windows-msvc.zip)
+
+[Linux (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-x86_64-unknown-linux-gnu.tar.gz)
+
+[Linux (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-aarch64-unknown-linux-gnu.tar.gz)
+
+[Linux (armv7)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-armv7-unknown-linux-gnueabihf.tar.gz)
+
+[MacOS (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-x86_64-apple-darwin.tar.gz)
+
+[MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.6.18/erg-aarch64-apple-darwin.tar.gz)
+
 ## 0.6.17
 
 [Windows (x86_64)](https://github.com/erg-lang/erg/releases/download/v0.6.17/erg-x86_64-pc-windows-msvc.zip)
@@ -354,6 +382,18 @@ By enabling the `--features` flag, you can customize the installation and build.
 [MacOS (aarch64)](https://github.com/erg-lang/erg/releases/download/v0.5.6/erg-aarch64-apple-darwin.tar.gz)
 
 # Download Source
+
+## 0.6.19
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.19.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.19.tar.gz)
+
+## 0.6.18
+
+[Source(zip)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.18.zip)
+
+[Source(tar)](https://github.com/erg-lang/erg/archive/refs/tags/v0.6.18.tar.gz)
 
 ## 0.6.17
 
